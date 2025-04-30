@@ -1,9 +1,9 @@
 # EX01 Developing a Simple Webserver
 ## Date:20/03/2025
 
-NAME : A JEEVITH
+NAME : R ISWARIYA
 
-REG NO: 212223240059
+REG NO: 212224220039
 
 
 ## AIM:
